@@ -64,7 +64,7 @@ Command Sequence
 
 Clone the Project:
 
-git clone [Your GitHub Link Here] # Replace with your repo URL
+git clone  https://github.com/ITHanan/CleanArchitectBoilerplate.git # Replace with your repo URL
 cd CleanArchitectBoilerplate
 
 
@@ -83,8 +83,6 @@ Run the API:
 
 dotnet run --project ApiLayer
 
-
-The API is now running locally. You can access the Swagger documentation at: [Your Local URL]/swagger.
 
 🤝 Contributing
 
